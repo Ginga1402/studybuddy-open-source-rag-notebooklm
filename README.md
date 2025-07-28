@@ -60,10 +60,29 @@ StudyBuddy/
 - **Legal Research**: Analyze legal documents and extract relevant precedents
 - **Technical Documentation**: Create interactive guides from complex technical manuals
 
+---
+
+## 🎬 Demo Video
+
+See StudyBuddy in action! Watch our comprehensive demo showcasing all features:
+
+[![▶️ Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-4CAF50?style=for-the-badgen&logoColor=white)](link-to-your-video-file.mp4)
+
+
+### 📹 What's Covered in the Demo:
+- **PDF Upload & Vector Store Creation**: See how easy it is to upload documents
+- **Interactive Q&A**: Real-time question answering with source references
+- **Content Generation**: Summaries, quizzes, diagrams, and FAQs in action
+- **Analytics Dashboard**: Comprehensive usage tracking and metrics
+- **User Interface**: Complete walkthrough of the enhanced Streamlit UI
+
+
+---
+
 ## 🛠️ Installation Instructions
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.9+
 - CUDA-compatible GPU (optional, for faster processing)
 - 8GB+ RAM recommended
 
