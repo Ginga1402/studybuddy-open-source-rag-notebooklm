@@ -97,12 +97,8 @@ cd studybuddy
 pip install -r requirements.txt
 ```
 
-### Step 3: Install Additional Requirements
-```bash
-pip install -r streamlit_requirements.txt
-```
 
-### Step 4: Set Up Ollama (LLM Backend)
+### Step 3: Set Up Ollama (LLM Backend)
 ```bash
 # Install Ollama
 curl -fsSL https://ollama.ai/install.sh | sh
@@ -111,7 +107,7 @@ curl -fsSL https://ollama.ai/install.sh | sh
 ollama pull gemma3:12b-it-q4_K_M
 ```
 
-### Step 5: Configure Paths
+### Step 4: Configure Paths
 Update the paths in `configuration.py` to match your system:
 ```python
 DIRECTORY_PATH = "your/path/to/Data"
