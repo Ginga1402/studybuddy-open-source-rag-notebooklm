@@ -126,7 +126,7 @@ The API will be available at `http://localhost:9000`
 
 2. **Launch the Streamlit Interface**:
 ```bash
-streamlit run streamlit_ui_fixed.py
+streamlit run streamlit_app.py
 ```
 The web interface will open at `http://localhost:8501`
 
